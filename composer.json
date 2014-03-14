@@ -1,0 +1,24 @@
+{
+    "name": "zeroframework/zeroframework-calendr-ffmpegbundle",
+    "description": "calendr bundle for zeroframework",
+    "keywords": ["calendr", "zeroframework"],
+    "homepage": "https://github.com/zeroframework/zeroframerwork-calendr-ffmpegbundle",
+    "type": "library",
+    "license": "GPLV2",
+    "authors": [
+        {
+            "name": "Jean pasqualini",
+            "email": "jpasqualini75@gmail.com",
+            "homepage": "http://fr.viadeo.com/fr/profile/developpeur.symfony2"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src"
+        }
+    }
+}
+
